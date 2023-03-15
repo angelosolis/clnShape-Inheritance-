@@ -1,0 +1,16 @@
+C:\Users\solis\source\repos\clsShape\clsShape\bin\Debug\clsShape.exe.config
+C:\Users\solis\source\repos\clsShape\clsShape\bin\Debug\clsShape.exe
+C:\Users\solis\source\repos\clsShape\clsShape\bin\Debug\clsShape.pdb
+C:\Users\solis\source\repos\clsShape\clsShape\obj\Debug\clsShape.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\clsShape\clsShape\obj\Debug\clsShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\clsShape\clsShape\obj\Debug\clsShape.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\clsShape\clsShape\obj\Debug\clsShape.exe
+C:\Users\solis\source\repos\clsShape\clsShape\obj\Debug\clsShape.pdb
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\bin\Debug\clsShape.exe.config
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\bin\Debug\clsShape.exe
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\bin\Debug\clsShape.pdb
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\obj\Debug\clsShape.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\obj\Debug\clsShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\obj\Debug\clsShape.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\obj\Debug\clsShape.exe
+C:\Users\Admin\Downloads\clnShape-main\clnShape-main\clsShape\obj\Debug\clsShape.pdb
